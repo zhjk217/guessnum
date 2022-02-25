@@ -1,2 +1,2 @@
 play.o:play.cpp
-    gcc play.cpp
+   gcc play.cpp
