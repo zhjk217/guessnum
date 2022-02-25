@@ -1,6 +1,6 @@
 CC:=gcc
-exe:=main
-obj:=main.o a.o 
+exe:=play
+obj:=play.o  
 
 all:$(obj)
  $(CC) -o $(exe) $(obj)  
