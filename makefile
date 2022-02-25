@@ -1,1 +1,1 @@
-gcc play.cpp -o play.o
+  gcc play.cpp -o play.o
